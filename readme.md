@@ -1,4 +1,4 @@
-# OPEN BRIEF 
+Open Brief
 Geachte burgemeester, 
 
 De Tweede Wereldoorlog is reeds lang voorbij, maar de strijd tegen de Joden lijkt onverminderd door te gaan. 
