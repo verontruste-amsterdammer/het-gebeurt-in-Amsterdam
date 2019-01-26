@@ -1,0 +1,89 @@
+.photo-gallery {
+  color: #313437;
+  background-color: #fff;
+}
+
+.photo-gallery p {
+  color: #7d8285;
+}
+
+.photo-gallery h2 {
+  font-weight: bold;
+  margin-bottom: 40px;
+  padding-top: 40px;
+  color: inherit;
+}
+
+@media (max-width:767px) {
+  .photo-gallery h2 {
+    margin-bottom: 25px;
+    padding-top: 25px;
+    font-size: 24px;
+  }
+}
+
+.photo-gallery .intro {
+  font-size: 16px;
+  max-width: 500px;
+  margin: 0 auto 40px;
+}
+
+.photo-gallery .intro p {
+  margin-bottom: 0;
+}
+
+.photo-gallery .photos {
+  padding-bottom: 20px;
+}
+
+.photo-gallery .item {
+  padding-bottom: 30px;
+}
+
+#Title {
+  font-size: 80px;
+  font-weight: 400;
+  font-family: serif;
+  color: white;
+  text-shadow: -2px 2px 14px #000000;
+}
+
+Parallex {
+  margin-bottom: 1500px;
+}
+
+#ParallaxText {
+  position: absolute;
+  font-size: 40px;
+  color: white;
+  text-shadow: -2px 2px 14px #000000;
+  font-weight: 300;
+  margin-left: 10%;
+  margin-right: 50%;
+  margin-top: 11%;
+  width: 700px;
+}
+
+#Parallex {
+  margin-bottom: 50px;
+  -webkit-box-shadow: inset 1px 2px 48px 8px rgba(0,0,0,0.75);
+  -moz-box-shadow: inset 1px 2px 48px 8px rgba(0,0,0,0.75);
+  box-shadow: inset 1px 2px 48px 8px rgba(0,0,0,0.75);
+}
+
+#Israel {
+  width: 100%;
+}
+
+#openbrief {
+  margin-bottom: 50px;
+  color: white;
+  text-shadow: -2px 2px 14px #000000;
+}
+
+#LeftSideText {
+  color: white;
+  text-shadow: -2px 2px 14px #000000;
+  font-size: 25px;
+}
+
