@@ -55,24 +55,35 @@ Parallex {
 #ParallaxText {
   position: absolute;
   font-size: 40px;
+  margin-top: 10%;
+  margin-left: 18%;
+  margin-right: 10%;
   color: white;
-  text-shadow: -2px 2px 14px #000000;
+  text-shadow: -3px 3px 3px #000000;
   font-weight: 300;
-  margin-left: 10%;
-  margin-right: 50%;
-  margin-top: 11%;
-  width: 700px;
+  width: 60%;
+  z-index: 10;
 }
 
 #Parallex {
   margin-bottom: 50px;
   -webkit-box-shadow: inset 1px 2px 48px 8px rgba(0,0,0,0.75);
-  -moz-box-shadow: inset 1px 2px 48px 8px rgba(0,0,0,0.75);
-  box-shadow: inset 1px 2px 48px 8px rgba(0,0,0,0.75);
+  /*-moz-box-shadow: inset 1px 2px 48px 8px rgba(0,0,0,0.75);*/
+  /*box-shadow: inset 1px 2px 48px 8px rgba(0,0,0,0.75);*/
+  /*-webkit-filter: contrast(75%);*/
 }
 
 #Israel {
-  width: 100%;
+  width: 120%;
+  height: 100%;
+  margin-left: 7%;
+  -webkit-box-shadow: -8px 10px 16px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: -8px 10px 16px 0px rgba(0,0,0,0.75);
+  box-shadow: -8px 10px 16px 0px rgba(0,0,0,0.75);
+  border: solid;
+  border-color: white;
+  padding-bottom: 5px;
+  background-color: white;
 }
 
 #openbrief {
@@ -83,7 +94,48 @@ Parallex {
 
 #LeftSideText {
   color: white;
-  text-shadow: -2px 2px 14px #000000;
+  text-shadow: -2px 2px 4px #000000;
   font-size: 25px;
+  width: 700px;
+  margin-left: -28%;
+}
+
+#Israel {
+}
+
+#RightSideText {
+  color: white;
+  text-shadow: -2px 2px 4px #000000;
+  font-size: 25px;
+  width: 700px;
+  margin-top: 16%;
+}
+
+img {
+  width: 120%;
+  height: 90%;
+  border: solid;
+  border-color: white;
+  padding-bottom: 5px;
+  background-color: white;
+  -webkit-box-shadow: -8px 10px 16px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: -8px 10px 16px 0px rgba(0,0,0,0.75);
+  box-shadow: -8px 10px 16px 0px rgba(0,0,0,0.75);
+}
+
+.text-center {
+}
+
+#last {
+  color: white;
+  text-shadow: -2px 2px 4px #000000;
+  font-size: 25px;
+}
+
+.col-md-6 {
+}
+
+#dam {
+  margin-left: -22%;
 }
 
